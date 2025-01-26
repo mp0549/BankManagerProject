@@ -2,8 +2,6 @@ import java.util.Random;
 
 /**
  * Account class which holds basic info about accounts.
- * 
- * @author Caleb
  */
 public class Account {
 	static final Random rand = new Random();
